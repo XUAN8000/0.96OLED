@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\15woled.obj" 
+TO ".\Objects\oled15w" 
+PRINT(".\Listings\oled15w.m51") RAMSIZE(256) 
